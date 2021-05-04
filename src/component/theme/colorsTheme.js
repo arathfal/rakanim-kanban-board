@@ -16,7 +16,7 @@ const colorsThemes = {
   colorGreen: "#52C41A",
   colorCyan: "#13C2C2",
   colorBlue: "#1890FF",
-  colorGreekBlue: "#2F54EB",
+  colorGeekBlue: "#2F54EB",
   colorPurple: "#722ED1",
   colorUngu: "#5E20B3",
 };

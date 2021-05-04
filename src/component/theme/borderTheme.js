@@ -11,8 +11,12 @@ const borderThemes = {
   borderGreen: "#B7EB8F",
   borderCyan: "#87E8DE",
   borderBlue: "#91D5FF",
-  borderGreekBlue: "#ADC6FF",
+  borderGeekBlue: "#ADC6FF",
   borderPurple: "#D3ADF7",
+  borderPink: "#EB2F96",
+  borderUngu: "#7B61FF",
+  borderBiru: "#2F54EB",
+  borderHijau: "#52C41A",
 };
 
 export default borderThemes;

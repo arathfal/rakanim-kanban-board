@@ -17,3 +17,9 @@ export const SideLayout = styled.div`
 export const ContentLayout = styled.div`
   padding: 1.25rem 3.125rem;
 `;
+
+export const FlexRowCenter = styled.div`
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+`;

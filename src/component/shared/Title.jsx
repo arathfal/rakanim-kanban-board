@@ -7,6 +7,7 @@ const StyledTitle = styled.h1`
   color: ${colorsTheme["colorDarkOne"]};
   font-size: ${commonThemes["titleText"]};
   line-height: ${commonThemes["lineHeight20"]};
+  margin-bottom: 1.5rem;
 `;
 const Title = ({ text }) => {
   return <StyledTitle>{text}</StyledTitle>;
