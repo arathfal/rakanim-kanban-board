@@ -17,6 +17,7 @@ const backgroundThemes = {
   backgroundHijau: "#F8FEF1",
   backgroundBlueGray: "#F5F0FC",
   backgroundLight: "#F5F5F5",
+  backgroundLight2: "#F2F2F2",
 };
 
 export default backgroundThemes;

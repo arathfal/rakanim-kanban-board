@@ -15,6 +15,7 @@ const ProgressRange = styled.progress.attrs((props) => ({
       : value === "null"
       ? backgroundThemes["backgroundRed"]
       : backgroundThemes["backgroundBlue"]};
+  width: 5.625rem;
   height: 0.5rem;
   margin-right: 9px;
   border-radius: ${themes["radius8"]};

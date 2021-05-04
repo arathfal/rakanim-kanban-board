@@ -22,4 +22,12 @@ export const FlexRowCenter = styled.div`
   display: flex;
   flex-direction: row;
   align-items: center;
+  width: ${({ width }) => width};
+`;
+
+export const JustifyBetween = styled.div`
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: ${({ width }) => width};
 `;
